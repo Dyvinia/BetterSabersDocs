@@ -1,0 +1,55 @@
+site_name: BetterSabers
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  font:
+    text: Poppins
+  features:
+    - navigation.expand
+    - content.code.annotate
+  icon:
+    repo: octicons/download-24
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.keys
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
+      skip_classes:
+       - no-lb
+      auto_caption: false
+      caption_position: bottom
+  - mkdocs-video
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+
+repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/16 
+repo_name: Download
+  
+copyright: Copyright &copy; Dyvinia 
+
+nav:
+  - Overview: 'index.md'
+  - Installation: 'Installation.md'
+  - Example Preset: 'ExamplePreset.md'
+  - Changelog: 'Changelog.md'
