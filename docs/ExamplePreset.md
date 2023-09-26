@@ -1,6 +1,6 @@
 # Example Preset
 
-``` json title=".ExamplePreset.json"
+``` json title="ExamplePreset.json"
 // The Basic Structure of a Preset (1)
 {
   // Metadata (2)
