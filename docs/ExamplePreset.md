@@ -65,3 +65,20 @@ Overall trail length is controlled by the end user and therefore cannot be chang
 
 7. For advanced creators who want to edit params not normally exposed by the plugin.  
 Most creators can just delete this section.
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('dyvinia', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Donate',
+    'floating-chat.donateButton.background-color': '#7e56c2',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+<style>
+.floatingchat-container-wrap { bottom: 20px; }
+.floating-chat-kofi-popup-iframe { bottom: 80px; }
+.floatingchat-container-wrap { left:unset; right: -20px; }
+.floating-chat-kofi-popup-iframe { left:unset; right: 20px; }
+</style>

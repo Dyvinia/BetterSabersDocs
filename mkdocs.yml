@@ -40,6 +40,10 @@ plugins:
   - mkdocs-video
 extra:
   generator: false
+  social:
+    - icon: simple/kofi  
+      link: https://ko-fi.com/dyvinia 
+      name: Donate
 extra_css:
   - stylesheets/extra.css
 
