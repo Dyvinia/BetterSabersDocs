@@ -44,10 +44,9 @@
 }
 ```
 
-1. This File Should not be edited and instead it should be used as reference, edits to this file will be reverted upon launch.  
-Removing properties means that BetterSabers will automatically use the default value shown here.  
+1. Removing properties means that BetterSabers will automatically use the default value shown here.  
 It is recommended to look at the included presets to understand how a final preset looks.  
-All comments (human readable text that start with 2 slashes) should be removed when saving the file as a preset  
+<br>All comments (human readable text that start with 2 slashes) should be removed when saving the file as a preset  
 The final preset file must be a .json file for it to be recognized by BetterSabers
 
 2. Where you name your preset aswell as crediting yourself as the author.  
