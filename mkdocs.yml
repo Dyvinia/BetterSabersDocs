@@ -40,6 +40,9 @@ plugins:
   - mkdocs-video
 extra:
   generator: false
+    analytics:
+    provider: google
+    property: G-XNV99W0638
   social:
     - icon: simple/kofi  
       link: https://ko-fi.com/dyvinia 
