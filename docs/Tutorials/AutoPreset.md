@@ -2,11 +2,11 @@
 
 The presets automatically selected by the `Auto Select Preset` button can be changed
 
-![image](../../assets/images/AutoSelectPreset.png){ width="300"}
+![image](../assets/images/AutoSelectPreset.png){ width="300"}
 
-The `BetterSabersPresets\.AutoPreset\AutoPreset.json` file is where the auto selection of presets can be set by the user:
+The `BetterSabersPresets\.AutoSelect\Presets.json` file is where the auto selection of presets can be set by the user:
 
-``` json title="AutoPreset.json"
+``` json title=".AutoSelect\Presets.json"
 {
   "red": "Red [BetterSabers]",
   "cd": "Red [BetterSabers]",
