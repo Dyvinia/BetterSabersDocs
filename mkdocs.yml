@@ -58,8 +58,8 @@ copyright: Copyright &copy; Dyvinia
 
 nav:
   - Overview: 'index.md'
-  - Installation: 'Installation.md'
   - Tutorials:
+    - Installation: 'Installation.md'
     - Example Preset: 'Tutorials/ExamplePreset.md'
-    - Auto Select Preset: 'Tutorials/AutoPreset.md'
+    #- Auto Select Preset: 'Tutorials/AutoPreset.md'
   - Changelog: 'Changelog.md'
