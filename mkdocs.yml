@@ -23,6 +23,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - footnotes
 plugins:
   - glightbox:
       touchNavigation: true
@@ -58,5 +59,7 @@ copyright: Copyright &copy; Dyvinia
 nav:
   - Overview: 'index.md'
   - Installation: 'Installation.md'
-  - Example Preset: 'ExamplePreset.md'
+  - Tutorials:
+    - Example Preset: 'Tutorials/ExamplePreset.md'
+    - Auto Select Preset: 'Tutorials/AutoPreset.md'
   - Changelog: 'Changelog.md'

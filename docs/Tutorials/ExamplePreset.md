@@ -1,5 +1,7 @@
 # Example Preset
 
+The Example Preset goes over how a preset functions
+
 ``` json title="ExamplePreset.json"
 // The Basic Structure of a Preset (1)
 {
