@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.1
+- Fixes with preset loading
+- Support for name overrides
+- Various Fixes
+
 ## v1.2.0
 - New options for [Auto Select Preset](../Tutorials/AutoPreset/)
 - Option to change name of generated mod
