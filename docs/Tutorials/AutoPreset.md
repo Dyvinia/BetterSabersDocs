@@ -26,9 +26,9 @@ The `BetterSabersPresets\.AutoSelect\Presets.json` file is where the auto select
 ```
 
 The left side is the search pattern, while the right side is the preset name.  
-If a saber blueprint contains the text[^1] `red`, `cd`, or `kylo` in its name, it will select the preset named `Red [BetterSabers]`.
+If a saber blueprint contains the text[^1] `red`, `cd`, or `kylo` in its name, it will select the preset named `Red [BetterSabers]`.  
+The file is read from top to bottom, so a file containing `greenyellow` will auto select Lime since it is above Green.
 
-The file is read from top to bottom, so a file containing `greenyellow` will auto select Lime since it is above Green
-
+To reset all changes, delete the `Presets.json` file.
 
 [^1]: Case Insensitive
