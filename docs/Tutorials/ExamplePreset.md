@@ -23,11 +23,13 @@ The Example Preset goes over how a preset functions
   // Light (3)
   "LightColor": [1, 1, 1],
   "LightIntensity": 100,
-  "LightFalloffOffset": 0.5,
+  "LightPulseIntensity": 0.25,
+  "LightFalloffOffset": 0.1,
   "LightFalloffRadius": 10,
 
   // Shape (4)
   "Width": 0.03,
+  "LengthMult": 1.0,
   "TipLength": 0.075,
   "TipMinWidth": 0.2,
 
@@ -54,9 +56,11 @@ It is recommended to look at the included presets to understand how a final pres
 2. Where you name your preset aswell as crediting yourself as the author.  
 Version is a string, by default it will use the version of the plugin
 
-3. Controls the light emitted onto the world.
+3. Controls the light emitted onto the world.  
+LightPulseIntensity is multiplied by 3.6x for unstable sabers
 
 4. Controls the shape of the saber.  
+LengthMult multiplies the existing length of the saber.  
 For consistency, unstable sabers have a 1.69x multiplier on the Width aswell as having 0.1 added to the TipLength in here
 
 5. Controls the trail of the saber.  

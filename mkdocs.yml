@@ -61,5 +61,5 @@ nav:
   - Tutorials:
     - Setup & Installation: 'Tutorials/Installation.md'
     - Example Preset: 'Tutorials/ExamplePreset.md'
-    - Auto Select Preset: 'Tutorials/AutoPreset.md'
+    - Auto Select Presets: 'Tutorials/AutoPreset.md'
   - Changelog: 'Changelog.md'

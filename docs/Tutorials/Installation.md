@@ -7,4 +7,4 @@
 
 ## Using the Plugin
 
-1. Launch the Mod Manager ([latest](https://github.com/CadeEvs/FrostyToolsuite/releases)) and press the 'Tools' menu at the top and click 'BetterSabers'
+1. Launch the Mod Manager ([latest](https://github.com/CadeEvs/FrostyToolsuite/releases)) and press the `Tools` menu at the top and click `BetterSabers`

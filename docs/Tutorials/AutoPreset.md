@@ -1,12 +1,15 @@
 # Auto Select Preset
 
-The presets automatically selected by the `Auto Select Preset` button can be changed
+The presets automatically selected by the `Auto Select Presets` button can be changed with auto select packs.
 
-![image](../assets/images/AutoSelectPreset.png){ width="300"}
+![image](../assets/images/AutoSelectPreset.png){ width="400"}
 
-The `BetterSabersPresets\.AutoSelect\Presets.json` file is where the auto selection of presets can be set by the user:
+`NAME.pack.json` files control the auto selection of presets, aswell as the default name used in the generated mod.  
+Users and creators can create new files using the `.pack.json` file extension to add new auto select packs to the dropdown below the `Auto Select Presets` button.
 
-``` json title=".AutoSelect\Presets.json"
+`BetterSabersPlugin\BetterSabers\BetterSabers.pack.json` is the default **BetterSabers** auto select pack:
+
+``` json title="BetterSabersPlugin\BetterSabers\BetterSabers.pack.json"
 {
   "red": "Red [BetterSabers]",
   "cd": "Red [BetterSabers]",
@@ -25,10 +28,13 @@ The `BetterSabersPresets\.AutoSelect\Presets.json` file is where the auto select
 }
 ```
 
-The left side is the search pattern, while the right side is the preset name.  
-If a saber blueprint contains the text[^1] `red`, `cd`, or `kylo` in its name, it will select the preset named `Red [BetterSabers]`.  
-The file is read from top to bottom, so a file containing `greenyellow` will auto select Lime since it is above Green.
+Values on the left are checked against FX files' names. If the value is found in the name, the Preset on the right side gets auto selected.
 
-To reset all changes, delete the `Presets.json` file.
+For example, if a saber blueprint contains the text[^1] `red`, `cd`, or `kylo` in its name, it will select the preset named `Red [BetterSabers]`.  
+
+**Notes:**  
+• The file is read from top to bottom, so a file containing `greenyellow` will auto select Lime since it is above Green, even though `green` would also be satisfied.  
+• The filename[^2] is used for the name shown in the dropdown.
 
 [^1]: Case Insensitive
+[^2]: Without the file extension

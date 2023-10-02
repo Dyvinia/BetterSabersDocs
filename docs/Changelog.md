@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.3.0
+- Major update to BetterSabers window
+    - New Dropdown for [Auto Select Presets](../Tutorials/AutoPreset/)
+    - Added Light Intensity option
+    - More space for options
+- Added LengthMult property: Multiplies the existing length of the saber.
+- Added LightPulseIntensity property: Changes the flickering of the light.
+- Adjust default light falloff offset
+- Various other changes and fixes
+
 ## v1.2.1
 - Fixes with preset loading
 - Support for name overrides
