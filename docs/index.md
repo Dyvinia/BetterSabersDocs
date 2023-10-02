@@ -6,4 +6,4 @@
 Gives you total control over all the sabers in the game and your modlist.  
 Create your own presets and share with other users!
 
-[Available on NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/16){ .md-button }
+[Available on NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/16){ .md-button target="_blank" }
