@@ -5,6 +5,7 @@
     - New Dropdown for [Auto Select Presets](../Tutorials/AutoPreset/)
     - Added Light Intensity option
     - More space for options
+- New Folder structure, user will be prompted to transfer files to new folder.
 - Added LengthMult property: Multiplies the existing length of the saber.
 - Added LightPulseIntensity property: Changes the flickering of the light.
 - Adjust default light falloff offset
