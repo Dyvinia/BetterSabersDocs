@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.1
+- Inform the user when presets/packs are unable to load
+- Various Fixes and QoL
+
 ## v1.3.0
 - Major update to BetterSabers window
     - New Dropdown for [Auto Select Presets](../Tutorials/AutoPreset/)
