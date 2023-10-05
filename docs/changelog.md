@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.3.2
+- `Auto Select Presets` dropdown now remembers the last selected pack
+- Add open folder button
+- Various Fixes
+
 ## v1.3.1
 - Inform the user when presets/packs are unable to load
 - Various Fixes and QoL
