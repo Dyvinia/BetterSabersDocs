@@ -3,6 +3,7 @@ window.onload = () => {
     lowerCaseURL = currentURL.toLowerCase();
     if (currentURL != lowerCaseURL) {
         if (!UrlExists(currentURL)){
+            console.log("Redirecting to lowercase url");
             location.replace(lowerCaseURL);
         }
     }
