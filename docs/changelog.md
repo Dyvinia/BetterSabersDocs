@@ -11,7 +11,7 @@
 
 ## v1.3.0
 - Major update to BetterSabers window
-    - New Dropdown for [Auto Select Presets](../Tutorials/AutoPreset/)
+    - New Dropdown for [Auto Select Presets](../tutorials/auto-preset/)
     - Added Light Intensity option
     - More space for options
 - New Folder structure, user will be prompted to transfer files to new folder.
@@ -26,7 +26,7 @@
 - Various Fixes
 
 ## v1.2.0
-- New options for [Auto Select Preset](../Tutorials/AutoPreset/)
+- New options for [Auto Select Preset](../tutorials/auto-preset/)
 - Option to change name of generated mod
 - Proper Error checking when loading presets
 - Update window styling
