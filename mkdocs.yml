@@ -50,6 +50,8 @@ extra:
       name: Donate
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - js/extra.js
 
 repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/16 
 repo_name: Download
