@@ -1,13 +1,17 @@
 # Changelog
 
+## v1.3.3
+- Update formatting in generated mod description
+- Various fixes
+
 ## v1.3.2
 - `Auto Select Presets` dropdown now remembers the last selected pack
 - Add open folder button
-- Various Fixes
+- Various fixes
 
 ## v1.3.1
 - Inform the user when presets/packs are unable to load
-- Various Fixes and QoL
+- Various fixes and QoL
 
 ## v1.3.0
 - Major update to BetterSabers window
@@ -23,16 +27,16 @@
 ## v1.2.1
 - Fixes with preset loading
 - Support for name overrides
-- Various Fixes
+- Various fixes
 
 ## v1.2.0
 - New options for [Auto Select Preset](../tutorials/auto-preset/)
 - Option to change name of generated mod
 - Proper Error checking when loading presets
 - Update window styling
-- Various Fixes and QoL
+- Various fixes and QoL
 
 ## v1.1.1
 - Link to new Docs Page
 - Updated BetterSabers Yellow
-- Various Fixes and QoL
+- Various fixes and QoL

@@ -1,6 +1,5 @@
 :root {
   --md-tooltip-width: 750px;
-  
   --md-default-fg-color--light: #cecece;
 }
 
@@ -12,6 +11,7 @@
 /* Hover Color */
 [data-md-color-accent="indigo"] {
   --md-accent-fg-color: #7e4fff;
+  --md-typeset-color: #ddd;
 }
 
 /* H1, H2, etc */
