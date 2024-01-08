@@ -16,7 +16,7 @@
 
 #### Other Changes
 - Added Pink Saber color
-- Updated Pack format
+- Updated [Pack format](../tutorials/auto-preset/)
 - Improved loading times
 - Added support for unstable custom params
 - Improved generated mod description
