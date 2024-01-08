@@ -11,22 +11,37 @@ Users and creators can create new files using the `.pack.json` file extension to
 
 ``` json title="BetterSabersPlugin\BetterSabers\BetterSabers.pack.json"
 {
-  "red": "Red [BetterSabers]",
-  "cd": "Red [BetterSabers]",
-  "kylo": "Red [BetterSabers]",
+  // Metadata (1)
+  "Metadata": {
+    "Name": "BetterSabers",
+    "Author": "Dyvinia"
+  },
 
-  "blue": "Blue [BetterSabers]",
+  // Presets (2)
+  "Presets": {
+    "red": "Red [BetterSabers]",
+    "cd": "Red [BetterSabers]",
+    "kylo": "Red [BetterSabers]",
 
-  "greenyellow": "Lime [BetterSabers]",
-  "lime": "Lime [BetterSabers]",
+    "blue": "Blue [BetterSabers]",
 
-  "green": "Green [BetterSabers]",
+    "greenyellow": "Lime [BetterSabers]",
+    "lime": "Lime [BetterSabers]",
 
-  "purple": "Purple [BetterSabers]",
+    "green": "Green [BetterSabers]",
 
-  "yellow": "Yellow [BetterSabers]"
+    "pink": "Pink [BetterSabers]",
+
+    "purple": "Purple [BetterSabers]",
+
+    "yellow": "Yellow [BetterSabers]"
+  }
 }
 ```
+
+1. Where you name your preset aswell as crediting yourself as the author.
+
+2. Values on the left are checked against FX files' names; if found, the Preset on the right side gets auto selected.   
 
 Values on the left are checked against FX files' names. If the value is found in the name, the Preset on the right side gets auto selected.
 
