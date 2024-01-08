@@ -1,5 +1,27 @@
 # Changelog
 
+## v1.4.0
+#### Major Updates to UI
+- New button in Mod Manager window to conveniently open the saber manager
+- Add author subtitle to presets and packs
+- Sabers are sorted alphabetically (configurable)
+- Increased size of window
+
+<div style="text-align:center">
+  <video width="600" autoplay muted loop>
+    <source src="../assets/images/v140.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+#### Other Changes
+- Added Pink Saber color
+- Updated Pack format
+- Improved loading times
+- Added support for unstable custom params
+- Improved generated mod description
+- Solved crashing issues
+
 ## v1.3.3
 - Update formatting in generated mod description
 - Various fixes
