@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.1
+- Export Packs using ++ctrl+e++
+- Fix minor issues
+
 ## v1.4.0
 #### Major Updates to UI
 - New button in Mod Manager window to conveniently open the saber manager
