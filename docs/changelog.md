@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.4.2
+- Frontend Trail Multiplier
+    - Increases Trail Length value while in the frontend
+- Fix minor issues
+
 ## v1.4.1
 - Export Packs using ++ctrl+e++
 - Fix minor issues
