@@ -23,6 +23,7 @@
 
 <h4>Other Changes</h4>
 - Improved Performance
+- Rewritten to move most logic to a seperate executable using .NET 8
 
 ## v1.4.2
 - Frontend Trail Multiplier
