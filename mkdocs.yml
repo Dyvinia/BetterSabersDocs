@@ -12,6 +12,7 @@ theme:
     - content.code.annotate
   icon:
     repo: octicons/download-24
+  custom_dir: overrides
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -62,7 +63,7 @@ nav:
   - Overview: 'index.md'
   - Tutorials:
     - Setup & Installation: 'tutorials/installation.md'
-    - Example Preset: 'tutorials/example-preset.md'
-    - Auto Select Presets: 'tutorials/auto-preset.md'
+    - Creating Presets: 'tutorials/example-preset.md'
+    - Preset Packs: 'tutorials/auto-preset.md'
   - Recommendations: 'recommendations.md'
   - Changelog: 'changelog.md'

@@ -1,5 +1,29 @@
 # Changelog
 
+## v2.0.0
+<h3><strong>New UI</strong></h3>
+- Easier to read
+- More Responsive
+
+<div style="text-align: center">
+  <video style="max-width: 700px" autoplay muted loop playsinline>
+    <source src="../assets/images/v200.mp4" type="video/mp4">
+  </video>
+</div>
+
+<h4>Updated Preset format</h4>
+- New `EnforceStyle` option
+    - Forces the saber style/stability. Value can be either `Standard` or `Unstable`
+    - Omitting the option allows users to use the preset on any type of saber
+- Renamed `Color0` and `Color1` to more accurate names
+
+<h4>Moved Presets to centralized directory in Appdata</h4>
+- `%APPDATA%\BetterSabersManager\Presets`
+- Can be found [here](/tutorials/installation/#manual-installation)
+
+<h4>Other Changes</h4>
+- Improved Performance
+
 ## v1.4.2
 - Frontend Trail Multiplier
     - Increases Trail Length value while in the frontend
@@ -10,7 +34,7 @@
 - Fix minor issues
 
 ## v1.4.0
-#### Major Updates to UI
+<h4>Major Updates to UI</h4>
 - New button in Mod Manager window to conveniently open the saber manager
 - Add author subtitle to presets and packs
 - Sabers are sorted alphabetically (configurable)
@@ -23,7 +47,7 @@
 </div>
 
 
-#### Other Changes
+<h4>Other Changes</h4>
 - Added Pink Saber color
 - Updated [Pack format](../tutorials/auto-preset/)
 - Improved loading times
