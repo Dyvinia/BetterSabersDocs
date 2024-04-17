@@ -17,7 +17,7 @@
 - Increased size of window
 
 <div style="text-align:center">
-  <video width="600" autoplay muted loop>
+  <video width="600" autoplay muted loop playsinline>
     <source src="../assets/images/v140.mp4" type="video/mp4">
   </video>
 </div>
