@@ -63,7 +63,7 @@ nav:
   - Overview: 'index.md'
   - Tutorials:
     - Setup & Installation: 'tutorials/installation.md'
-    - Creating Presets: 'tutorials/example-preset.md'
-    - Preset Packs: 'tutorials/auto-preset.md'
+    - Creating Presets: 'tutorials/presets.md'
+    - Preset Packs: 'tutorials/packs.md'
   - Recommendations: 'recommendations.md'
   - Changelog: 'changelog.md'
