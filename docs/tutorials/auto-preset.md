@@ -2,7 +2,17 @@
 
 The presets automatically selected by the checkbox button can be changed with preset packs.
 
-![image](../assets/images/AutoSelectPreset.png){ width="400"}
+<div style="text-align: center">
+  <video style="max-width: 700px" autoplay muted loop playsinline>
+    <source src="../../assets/images/AutoSelectPresets.mp4" type="video/mp4">
+  </video>
+</div>
+
+## Saving Current Selection
+
+Pressing ++ctrl+s++ saves the current selection of presets to a pack that you can reuse. These packs however aren't meant to be shared alongside presets, for that you should create a pack manually like below so that they will work more universally across load orders/mod lists.
+
+## Creating a pack
 
 `NAME.pack.json` files control the auto selection of presets, aswell as the default name used in the generated mod.  
 Users and creators can create new files using the `.pack.json` file extension to add new auto select packs to the dropdown below the `Auto Select Presets` button.
