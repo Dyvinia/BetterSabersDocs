@@ -19,7 +19,7 @@
 
 <h4>Moved Presets to centralized directory in Appdata</h4>
 - `%APPDATA%\BetterSabersManager\Presets`
-- Can be found [here](/tutorials/installation/#manual-installation)
+- Can be found [here](/tutorials/installation/#manual-installation){ target="_blank" }
 
 <h4>Other Changes</h4>
 - Improved Performance
