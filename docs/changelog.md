@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0.1
+- Fix issue when switching packs in Frosty after using BetterSabers
+
 ## v2.0.0
 <h3><strong>New UI</strong></h3>
 - Easier to read
