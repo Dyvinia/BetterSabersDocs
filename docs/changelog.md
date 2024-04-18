@@ -22,6 +22,7 @@
 - Can be found [here](/tutorials/installation/#manual-installation){ target="_blank" }
 
 <h4>Other Changes</h4>
+- Embedded debug info to allow for better troubleshooting
 - Improved Performance
 - Rewritten as a .NET 8 standalone application which connects to a Frosty Plugin
 
