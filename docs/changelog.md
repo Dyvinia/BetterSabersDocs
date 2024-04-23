@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.2
+- Fix Light Intensity not working
+- Fix crashes when Light Intensity is set too high
+
 ## v2.0.1
 - Fix issue when switching packs in Frosty after using BetterSabers
 
