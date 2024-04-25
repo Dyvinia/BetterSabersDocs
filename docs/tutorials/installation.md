@@ -5,7 +5,9 @@
 ### Plugin Installation
 1. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
 
-2. Open the `.zip` file and drag `BetterSabersPlugin.dll` Into the `Plugins` Folder
+2. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+3. Open the `.zip` file and drag `BetterSabersPlugin.dll` Into the `Plugins` Folder
 
 ### Using the Plugin
 
