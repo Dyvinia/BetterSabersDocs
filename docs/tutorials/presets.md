@@ -71,10 +71,12 @@ It is recommended to look at the included presets to understand how a final pres
 Version is a string, by default it will use the version of the plugin.
 
 3. Changes the color of the Edge of the saber blade.  
-(Color0)
+The 3 values are Red, Green and Blue.   
+(aka Color0)
 
 4. Changes the color of the Core of the saber blade.  
-(Color1)
+The 3 values are Red, Green and Blue.   
+(aka Color1)
 
 5. Controls the light emitted onto the world.  
 LightPulseIntensity is multiplied by 3.6x for unstable sabers.
