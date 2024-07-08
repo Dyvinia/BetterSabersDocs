@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.0.3
+- Blur entire window when dragging in preset
+- Improvements to resource and assembly loading
+- Added prompt to select the executable manually if SWBF2 cannot be autolocated
+- Various fixes
+
 ## v2.0.2
 - Fix Light Intensity not working
 - Fix crashes when Light Intensity is set too high
