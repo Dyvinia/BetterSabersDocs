@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.1.0
+- Prevent scrolling when hovering over a (closed) combobox
+- Blur the background of dialog windows to improve text readability
+- Add version checker to the manager itself
+- Button to open bug reports page
+- Update checker opens the latest version page
+- Support for Kyber V2
+- Various fixes
+
 ## v2.0.3
 - Blur entire window when dragging in preset
 - Improvements to resource and assembly loading
