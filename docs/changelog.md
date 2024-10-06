@@ -2,11 +2,11 @@
 
 ## v2.1.0
 - Prevent scrolling when hovering over a (closed) combobox
-- Blur the background of dialog windows to improve text readability
-- Add version checker to the manager itself
-- Button to open bug reports page
-- Update checker opens the latest version page
-- Support for Kyber V2
+- Added blur to the background of dialog windows to improve text readability
+- Added version checker to the manager itself
+- Added a button to open bug reports page
+- Added support for Kyber V2
+- Update checker now opens the latest version page
 - Various fixes
 
 ## v2.0.3
