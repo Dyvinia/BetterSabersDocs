@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1.1
+- Fix crash when there are duplicate pack files
+- Only show one messagebox for all duplicate preset files
+
 ## v2.1.0
 - Prevent scrolling when hovering over a (closed) combobox
 - Added blur to the background of dialog windows to improve text readability
