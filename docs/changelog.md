@@ -1,7 +1,12 @@
 # Changelog
 
+## v2.2.0
+- Fixed issue where some Kyber v2 mods would not show up in BetterSabers
+- Fixed the "Could not load file or assembly" crash
+- Added logging (`%AppData%\BetterSabersManager\log.txt`)
+
 ## v2.1.1
-- Fix crash when there are duplicate pack files
+- Fixed crash when there are duplicate pack files
 - Only show one messagebox for all duplicate preset files
 
 ## v2.1.0
