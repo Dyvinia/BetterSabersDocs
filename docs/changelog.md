@@ -4,6 +4,7 @@
 - Fixed issue where some Kyber v2 mods would not show up in BetterSabers
 - Fixed the "Could not load file or assembly" crash
 - Added logging (`%AppData%\BetterSabersManager\log.txt`)
+- Various fixes
 
 ## v2.1.1
 - Fixed crash when there are duplicate pack files
