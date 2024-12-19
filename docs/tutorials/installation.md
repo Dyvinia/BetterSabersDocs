@@ -36,7 +36,7 @@
 
 ## Troubleshooting
 
-- When opening a bug report, make sure to check the log and upload/paste it to something like [pastes.dev](https://pastes.dev/)
+- When opening a bug report, make sure to check the log (`%AppData%\BetterSabersManager\log.txt`) and upload/paste it to something like [pastes.dev](https://pastes.dev/)
 
 
 ## Installing Presets
