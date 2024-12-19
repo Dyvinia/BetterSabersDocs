@@ -1,13 +1,26 @@
 # Setup & Installation
 
+## Kyber V2 Plugin Installation
+
+1. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+2. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
+
+3. Drag and drop the `.zip` file into the Kyber V2 Launcher
+
 ## Frosty
 
-### Plugin Installation
-1. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
+### Frosty Plugin Installation
 
-2. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+1. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+2. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
 
 3. Open the `.zip` file and drag `BetterSabersPlugin.dll` Into the `Plugins` Folder
+
+## Troubleshooting
+
+- When opening a bug report, make sure to check the log and upload/paste it to something like [pastes.dev](https://pastes.dev/)
 
 ### Using the Plugin
 
