@@ -8,9 +8,7 @@
 
 3. Drag and drop the `.zip` file into the Kyber V2 Launcher
 
-## Frosty
-
-### Frosty Plugin Installation
+## Frosty Plugin Installation
 
 1. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
