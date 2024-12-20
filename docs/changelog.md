@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.2.1
+- Fixed issues when searching for Battlefront 2 installation
+- Added button to open log file when BetterSabers crashes
+
 ## v2.2.0
 - Fixed issue where some Kyber v2 mods would not show up in BetterSabers
 - Fixed the "Could not load file or assembly" crash
