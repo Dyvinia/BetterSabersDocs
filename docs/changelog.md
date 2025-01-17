@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2.2
+- Proper support for Battlefront Expanded
+
 ## v2.2.1
 - Fixed issues when searching for Battlefront 2 installation
 - Added button to open log file when BetterSabers crashes
