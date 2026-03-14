@@ -3,6 +3,7 @@
 ## v2.3.0
 - Fix crash when opening for the first time through Kyber
 - Fix crash when inputting invalid values for Light Intensity
+- Updated to .NET 10
 
 ## v2.2.2
 - Proper support for Battlefront Expanded
