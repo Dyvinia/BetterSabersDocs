@@ -2,7 +2,7 @@
 
 ## Kyber V2 Installation
 
-1. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+1. Download the [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
 2. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
 
@@ -10,7 +10,7 @@
 
 ## Frosty Installation
 
-1. Download the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+1. Download the [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
 2. Download the latest version of [BetterSabers](https://www.nexusmods.com/starwarsbattlefront22017/mods/16?tab=files)
 
